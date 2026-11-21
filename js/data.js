@@ -111,8 +111,8 @@ window.MG_DATA = [
    {
     "cat": "puertas",
     "file": "imagenes/servicios/puertas/precios/puerta-ventanal-1100000-medida.jpeg",
-    "price": 1100000,
-    "kind": "medida",
+    "price": null,
+    "kind": "cotizar",
     "name": "Puerta con ventanal"
    },
    {
@@ -132,8 +132,8 @@ window.MG_DATA = [
    {
     "cat": "puertas",
     "file": "imagenes/servicios/puertas/precios/puerta-con-ventana-1400000.jpeg",
-    "price": 1400000,
-    "kind": "fijo",
+    "price": null,
+    "kind": "cotizar",
     "name": "Puerta con ventana (promoción)"
    },
    {

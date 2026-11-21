@@ -21,8 +21,8 @@ Tipos: fijo | desde | cotizar. Moneda: COP.
 - puerta-1200000.jpeg | 1.200.000
 - puerta-1300000.jpeg | 1.300.000
 - puerta-2000000.jpeg | 2.000.000
-- puerta-con-ventana-1400000.jpeg | 1.400.000 (promoción puerta con ventana)
-- puerta-ventanal-1100000-medida.jpeg | 1.100.000, depende de la medida
+- puerta-con-ventana-1400000.jpeg | cotizar
+- puerta-ventanal-1100000-medida.jpeg | cotizar
 
 ## Ventanas
 - ventanal-desde-650000.jpeg | cotizar
