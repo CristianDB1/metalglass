@@ -25,8 +25,8 @@ Tipos: fijo | desde | cotizar. Moneda: COP.
 - puerta-ventanal-1100000-medida.jpeg | 1.100.000, depende de la medida
 
 ## Ventanas
-- ventanal-desde-650000.jpeg | desde 650.000
-- ventanal-1700000-medidas.jpeg | 1.700.000, depende de las medidas
+- ventanal-desde-650000.jpeg | cotizar
+- ventanal-1700000-medidas.jpeg | cotizar
 - ventana-cotizar-1..4.jpeg | cotizar (depende de la medida)
 
 ## Espejos

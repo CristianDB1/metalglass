@@ -152,15 +152,15 @@ window.MG_DATA = [
    {
     "cat": "ventanas",
     "file": "imagenes/servicios/ventanas/precios/ventanal-desde-650000.jpeg",
-    "price": 650000,
-    "kind": "desde",
+    "price": null,
+    "kind": "cotizar",
     "name": "Ventanal corredizo"
    },
    {
     "cat": "ventanas",
     "file": "imagenes/servicios/ventanas/precios/ventanal-1700000-medidas.jpeg",
-    "price": 1700000,
-    "kind": "medida",
+    "price": null,
+    "kind": "cotizar",
     "name": "Ventanal grande"
    },
    {
